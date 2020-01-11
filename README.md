@@ -1,2 +1,2 @@
 # introduction-to-algorithms
-Introduction to Algorithms implemented in C
+algorithms in Introduction to Algorithms(3rd Edition) implemented in C
